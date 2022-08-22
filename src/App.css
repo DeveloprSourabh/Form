@@ -15,7 +15,7 @@ h1 {
 }
 
 input {
-  width: 50%;
+  width: 100vh;
   padding: 10px 20px;
   border: none;
   outline: none;
