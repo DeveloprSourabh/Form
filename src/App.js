@@ -32,7 +32,7 @@ const App = () => {
 
   const onSubmit = (event) => {
     event.preventDefault();
-    alert("Form Submitted");
+    alert("Form Submitted 🥳");
   };
 
   return (
